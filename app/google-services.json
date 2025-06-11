@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "774375854439",
+    "project_id": "newlogin-4b3bd",
+    "storage_bucket": "newlogin-4b3bd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:774375854439:android:1009941132194a3bfe9fc2",
+        "android_client_info": {
+          "package_name": "com.example.loginapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvil1H6N59EpYBR2bzWNDuqjtBDVwVNeI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
